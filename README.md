@@ -8,4 +8,4 @@
 ### Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/eg0rian)
 
-![Sovrska's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sovrska&show_icons=true&title_color=000000)
+![Sovrska's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sovraska&show_icons=true&title_color=000000)
