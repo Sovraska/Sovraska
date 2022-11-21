@@ -1,4 +1,4 @@
-[![Header](https://github.com/EG0RIAN/EG0RIAN/blob/main/assets/header.png)](https://arkhiptsev.com/)
+
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python)
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django)
