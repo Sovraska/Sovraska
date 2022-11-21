@@ -6,6 +6,6 @@
 
 
 ### Contact me
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/eg0rian)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/Sovraska_s)
 
 ![Sovrska's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sovraska&show_icons=true&title_color=000000)
