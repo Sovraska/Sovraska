@@ -3,8 +3,8 @@
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python)
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709??style=for-the-badge&logo=)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg??style=for-the-badge&logo=)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709??style=for-the-badge&logo=DJANGO-REST)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg??style=for-the-badge&logo=postgres)
 
 ### Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/Sovraska_s)
