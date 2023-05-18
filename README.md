@@ -3,7 +3,8 @@
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python)
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django)
-![django-rest-framework](https://img.shields.io/badge/rest-framework?style=for-the-badge)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/Sovraska_s)
